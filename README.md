@@ -7,7 +7,7 @@
 
 ## Инсталация:
 
-Ако се под Windows, най-добре инсталирайте и използвайте linux терминал https://ubuntu.com/tutorials/ubuntu-on-windows#1-overview
+Ако сте под Windows, най-добре инсталирайте и използвайте linux терминал https://ubuntu.com/tutorials/ubuntu-on-windows#1-overview
 
 Инсталирайте nodejs https://nodejs.org/en/
 
